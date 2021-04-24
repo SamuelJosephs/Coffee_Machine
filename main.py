@@ -103,9 +103,8 @@ while cont == True:
         coffee_top_up = float(input("How much coffee would you like to add?: "))
         resources["coffee"] += coffee_top_up
         
-   if usr_input = "quit":
+    if usr_input == "quit":
         cont = False
-
 
 
 
